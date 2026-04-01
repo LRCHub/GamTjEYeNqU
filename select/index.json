@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "GO (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-04-01T00:52:47.063892Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go (BUMP OF CHICKEN Tour 2023 Be There At SAITAMA SUPER ARENA - Day1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_Go_(BUMP_OF_CHICKEN_Tour_2023_Be_There_At_SAITAMA_SUPER_ARENA_-_Day1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go (BUMP OF CHICKEN Tour 2022 Silver Jubilee at Zepp Haneda (TOKYO))",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Go_(BUMP_OF_CHICKEN_Tour_2022_Silver_Jubilee_at_Zepp_Haneda_(TOKYO))_BUMP_OF_CHICKEN.lrc"
+    }
+  ]
+}
